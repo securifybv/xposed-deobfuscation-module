@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DynamicMethodCall</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_configuration">ConfigurationActivity</string>
+    <string name="title_activity_preferences">PreferencesActivity</string>
+    <string name="server">Server</string>
+    <string name="apply">Apply</string>
+    <string name="prefs">Preferences</string>
+</resources>
